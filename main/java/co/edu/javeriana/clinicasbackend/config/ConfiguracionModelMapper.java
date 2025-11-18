@@ -1,11 +1,11 @@
-package com.ejemplo.clinicas.config;
+package co.edu.javeriana.clinicasbackend.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class ModelMapperConfig {
+public class ConfiguracionModelMapper {
 
     @Bean
     public ModelMapper modelMapper() {

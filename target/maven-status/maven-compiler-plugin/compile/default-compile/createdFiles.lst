@@ -1,0 +1,7 @@
+co\edu\javeriana\clinicasbackend\config\ConfiguracionModelMapper.class
+co\edu\javeriana\clinicasbackend\repositorios\ClinicaRepositorio.class
+co\edu\javeriana\clinicasbackend\ClinicasBackendApplication.class
+co\edu\javeriana\clinicasbackend\controladores\ClinicaControlador.class
+co\edu\javeriana\clinicasbackend\servicios\ClinicaServicio.class
+co\edu\javeriana\clinicasbackend\modelos\Clinica.class
+co\edu\javeriana\clinicasbackend\dtos\ClinicaDTO.class
